@@ -17,6 +17,7 @@
 |Аналитик данных (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/da_rus.pdf)__)|Karpov.Courses|2023|
 |Интерактивный тренажер по SQL (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/SQL.pdf)__)|Дальневосточный Федеральный Университет|2023|
 </div>
+<br>
 
 ## <p align="center">Стек технологий и языки:</p>
 <div align='center'> 
@@ -35,6 +36,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=Tableau)
 ![English](https://img.shields.io/badge/-English_B2-FFF?style=for-the-badge&logo=English)
 </div>
+<br>
 
 ## <p align='center'>Контакты:</p>
 <div align="center">
