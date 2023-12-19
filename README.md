@@ -19,6 +19,16 @@
 </div>
 <br>
 
+## <p align='center'>Проекты:</p>
+<div align='center'>
+
+|Название|Описание|Стек технологий|
+|--------|-----------|-----------|
+|Аналитика для мобильного игрового приложения|Расчёт продуктовых метрик: Retention Rate, ARPU, ARPPU, конверсия в покупку. Проверка гипотез, проведение A/B-теста и анализ его результатов (тесты Левена, Шапиро-Уилка, Bootstrap). Рассуждения насчёт других продуктовых метрик.|pandas, numpy, pingouin, seaborn, matplotlib, scipy, statsmodels, datetime|
+|E-Commerce|Анализ поведения пользователей, покупок, когортный анализ, RFM-сегментация.|pandas, numpy, seaborn, datetime, matplotlib|
+</div>
+<br>
+
 ## <p align="center">Стек технологий и языки:</p>
 <div align='center'> 
   
@@ -45,14 +55,4 @@
 <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/79500300310)</a>
 <a href="">[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFF)](https://vk.com/asvici)</a>
 ![MAIL](https://img.shields.io/badge/-ellavrenkova@gmail.com-FFF?style=for-the-badge&logo=gmail&logoColor=FFFFF)
-</div>
-<br>
-
-## <p align='center'>Проекты:</p>
-<div align='center'>
-
-|Название|Описание|Стек технологий|
-|--------|-----------|-----------|
-|Аналитика для мобильного игрового приложения|Расчёт продуктовых метрик: Retention Rate, ARPU, ARPPU, конверсия в покупку. Проверка гипотез, проведение A/B-теста и анализ его результатов (тесты Левена, Шапиро-Уилка, Bootstrap). Рассуждения насчёт других продуктовых метрик.|pandas, numpy, pingouin, seaborn, matplotlib, scipy, statsmodels, datetime|
-|E-Commerce|Анализ поведения пользователей, покупок, когортный анализ, RFM-сегментация.|pandas, numpy, seaborn, datetime, matplotlib|
 </div>
