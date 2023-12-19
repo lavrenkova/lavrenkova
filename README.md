@@ -17,7 +17,7 @@
 |Интерактивный тренажер по SQL (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/SQL.pdf)__)|Дальневосточный Федеральный Университет|2023|
 
 
-<h2 align="center">Стек технологий и языки:</h2>
+## <p align="center">Стек технологий и языки:</p>
 <div align='center'> 
   
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
@@ -35,7 +35,7 @@
 ![English](https://img.shields.io/badge/-English_B2-FFF?style=for-the-badge&logo=English)
 </div>
 
-<h2 align='center'>Контакты:</h2>
+## <p align='center'>Контакты:</p>
 <div align="center">
   
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/dontsendmenudes)</a>
@@ -43,3 +43,4 @@
 <a href="">[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFF)](https://vk.com/asvici)</a>
 ![MAIL](https://img.shields.io/badge/-ellavrenkova@gmail.com-FFF?style=for-the-badge&logo=gmail&logoColor=FFFFF)
 </div>
+
