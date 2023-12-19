@@ -15,7 +15,7 @@
 |Основы статистики (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/stats.pdf)__)|Bioinformatics Institute|2022|
 |Аналитик данных (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/da_rus.pdf)__)|Карпов.Курсы|2023|
 |Интерактивный тренажер по SQL (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/SQL.pdf)__)|Дальневосточный Федеральный Университет|2023|
-<br>
+
 
 <h2 align="center">Стек технологий и языки:</h2>
 <div align='center'> 
