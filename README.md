@@ -50,6 +50,5 @@
   
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/dontsendmenudes)</a>
 <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/79500300310)</a>
-<a href="">[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFF)](https://vk.com/asvici)</a>
 ![MAIL](https://img.shields.io/badge/-ellavrenkova@gmail.com-FFF?style=for-the-badge&logo=gmail&logoColor=FFFFF)
 </div>
