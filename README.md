@@ -24,6 +24,7 @@
 |--------|-----------|-----------|
 |Аналитика для мобильного игрового приложения (__[ссылка](https://github.com/lavrenkova/mobile_games)__)|Расчёт продуктовых метрик: Retention Rate, ARPU, ARPPU, конверсия в покупку. Проверка гипотез, проведение A/B-теста и анализ его результатов (тесты Левена, Шапиро-Уилка, Bootstrap). Рассуждения насчёт других продуктовых метрик.|pandas, numpy, pingouin, seaborn, matplotlib, scipy, statsmodels, datetime|
 |E-Commerce (__[ссылка](https://github.com/lavrenkova/e_commerce)__)|Анализ поведения пользователей, покупок, когортный анализ, RFM-сегментация.|pandas, numpy, seaborn, datetime, matplotlib|
+|A/B-тест для новой механики оплаты. SQL + Python (__[ссылка](https://github.com/lavrenkova/payment_and_students)__)|||
 |Разработка дашборда для расчёта премий сотрудникам||Tableau|
 </div>
 
