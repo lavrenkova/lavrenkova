@@ -43,7 +43,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![Airflow](https://img.shields.io/badge/-Airflow-FFF?style=for-the-badge&logo=AIRFLOW)
 ![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=Tableau)
-![English](https://img.shields.io/badge/-English_B2-FFF?style=for-the-badge&logo=English)
+<a href="">[![English](https://img.shields.io/badge/-English_B2-FFF?style=for-the-badge&logo=English)](https://github.com/lavrenkova/lavrenkova/blob/main/EF%20SET%20Certificate.pdf)</a>
 </div>
 
 ## <p align='center'>Контакты:</p>
