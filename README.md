@@ -15,6 +15,7 @@
 |Основы статистики (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/stats.pdf)__)|Bioinformatics Institute|2022|
 |Аналитик данных (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/da_rus.pdf)__)|Karpov.Courses|2023|
 |Интерактивный тренажер по SQL (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/SQL.pdf)__)|Дальневосточный Федеральный Университет|2023|
+|Оконные функции SQL (__[сертификат](https://github.com/lavrenkova/lavrenkova/blob/main/window_sql.pdf)__)|Антон Жиянов|2024|
 </div>
 
 ## <p align='center'>Проекты:</p>
