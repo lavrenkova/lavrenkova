@@ -53,6 +53,7 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=Tableau)
 ![Qlik](https://img.shields.io/badge/-Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Fine BI](https://img.shields.io/badge/-FINE_BI-009AFF?style=for-the-badge&logo=FINE_BI)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
